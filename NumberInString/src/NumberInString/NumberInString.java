@@ -1,3 +1,4 @@
+/* Sample Program just for Git configuration with Eclipse*/
 package NumberInString;
 
 public class NumberInString {
@@ -8,6 +9,7 @@ public class NumberInString {
 	       String s1[] = s.split(",");
 	       int[] n= new int[10];
 	       int temp;
+		System.out.println("Sample Program");  
 	       System.out.println(" Before parsing Int");
 	       for (int i=0; i<s1.length; i++)
 	       {
