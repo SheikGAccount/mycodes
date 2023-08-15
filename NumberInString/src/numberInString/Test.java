@@ -1,4 +1,4 @@
-package NumberInString;
+package numberInString;
 
 public class Test {
   public static void main(String[] args){

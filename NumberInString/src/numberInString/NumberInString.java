@@ -1,5 +1,5 @@
 /* Sample Program just for Git configuration with Eclipse*/
-package NumberInString;
+package numberInString;
 
 public class NumberInString {
 
@@ -34,7 +34,6 @@ public class NumberInString {
 	       {
 	       System.out.println("Values in Order" + n[i]);
 	       }
-	       System.out.println("Program needs to be updated");
 	      }
 	}
 
